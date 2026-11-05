@@ -28,3 +28,4 @@ xlang3 --dump-ir script.py
 Copyright (C) 2026 CantorAI Inc. and The XLang Foundation.
 
 Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE).
+Lucas Roberts- It has been very interesting to learn about this technology. It is difficult but I am learning. 
