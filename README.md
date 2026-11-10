@@ -35,3 +35,4 @@ registered by its C++ host in the same process.
 Copyright (C) 2026 CantorAI Inc. and The XLang Foundation.
 
 Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE).
+Chase Reynolds - My time so far has been confusing but beneficial as I have leanred a lot so far but knew ohting coming in. Its a slow process but I am slowly picking it up.
